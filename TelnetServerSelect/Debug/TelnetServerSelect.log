@@ -1,0 +1,4 @@
+﻿  TelnetServerSelect.cpp
+c:\users\khangkhang\documents\visual studio 2015\projects\homework3\telnetserverselect\telnetserverselect.cpp(31): warning C4101: 'sendBuf': unreferenced local variable
+  TelnetServerSelect.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework3\Debug\TelnetServerSelect.exe
+  TelnetServerSelect.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework3\Debug\TelnetServerSelect.pdb (Full PDB)
